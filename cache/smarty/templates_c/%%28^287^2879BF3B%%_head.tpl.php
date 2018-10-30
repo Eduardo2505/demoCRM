@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.31, created on 2018-10-27 17:18:50
+<?php /* Smarty version 2.6.31, created on 2018-10-30 16:57:27
          compiled from themes/SuiteP/tpls/_head.tpl */ ?>
 <?php require_once(SMARTY_CORE_DIR . 'core.load_plugins.php');
 smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getimagepath', 'themes/SuiteP/tpls/_head.tpl', 68, false),array('function', 'sugar_getjspath', 'themes/SuiteP/tpls/_head.tpl', 79, false),)), $this); ?>
@@ -18,8 +18,7 @@ smarty_core_load_plugins(array('plugins' => array(array('function', 'sugar_getim
     <link href='themes/SuiteP/css/fonts.css' rel='stylesheet' type='text/css'>
     <link href="themes/SuiteP/css/grid.css" rel="stylesheet" type="text/css"/>
     <link href="themes/SuiteP/css/footable.core.css" rel="stylesheet" type="text/css"/>
-    <title><?php echo $this->_tpl_vars['APP']['LBL_BROWSER_TITLE']; ?>
-</title>
+    <title>Apilink</title>
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

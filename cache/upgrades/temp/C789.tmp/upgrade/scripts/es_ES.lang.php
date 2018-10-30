@@ -230,7 +230,7 @@ $mod_strings = array(
     'LBL_STEP' => 'Paso',
     'LBL_TITLE_WELCOME' => 'Bienvenido a SuiteCRM ',
     'LBL_WELCOME_1' => 'Este instalador crea las tablas de la base de datos de SuiteCRM y establece los valores de configuración que ustede necesita para comenzar. El proceso completo debería tomar aproximadamente diez minutos.',
-    'LBL_WELCOME_2' => 'Para obtener documentación de la instalación, por favor visite los <a href="https://suitecrm.com/suitecrm/forum/suite-forum" target="_blank">Foros de apoyo SuiteCRM</a>.',
+    'LBL_WELCOME_2' => 'Para obtener documentación de la instalación, por favor visite los <a href="http://apilink.com.mx/" target="_blank">Foros de apoyo Apilink</a>.',
     'LBL_WELCOME_CHOOSE_LANGUAGE' => 'Seleccione su idioma',
     'LBL_WELCOME_SETUP_WIZARD' => 'Asistente de Configuración',
     'LBL_WELCOME_TITLE_WELCOME' => 'Bienvenido a SuiteCRM ',

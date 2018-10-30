@@ -73,7 +73,7 @@ if (
 );
 }
 $global_control_links['training'] = array(
-'linkinfo' => array($app_strings['LBL_TRAINING'] => 'javascript:void(window.open(\'https://suitecrm.com/suitecrm/forum/suite-forum\'))'),
+'linkinfo' => array($app_strings['LBL_TRAINING'] => 'javascript:void(window.open(\'http://apilink.com.mx\'))'),
 'submenu' => ''
  );
 
@@ -89,7 +89,7 @@ $global_control_links['users'] = array(
 'submenu' => ''
 );
 
-$global_control_links['about'] = array('linkinfo' => array($app_strings['LNK_ABOUT'] => 'index.php?module=Home&action=About'),
+$global_control_links['about'] = array('linkinfo' => array($app_strings['LNK_ABOUT'] => 'javascript:void(window.open(\'http://apilink.com.mx\'))'),
 'submenu' => ''
 );
 
